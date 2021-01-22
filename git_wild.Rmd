@@ -38,9 +38,15 @@ ggplot(data = diamonds, aes(x = price, y = carat)) +
 
 ```{r break-it-1}
 ggplot(data = diamonds, aes(x = depth, y = carat)) +
-  geom_point() +
+  geom_point(aes(color = blue)) +
+  labs(x= "Peyton Rocks!", 
+       y = "Whales are cool")
   theme_void()
+  
+  # hello there! 
+  
 ```
+
 
 ```{r break-it-2}
 
