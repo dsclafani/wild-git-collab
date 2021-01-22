@@ -37,10 +37,21 @@ ggplot(data = diamonds, aes(x = price, y = carat)) +
 ## PART B: Make problems
 
 ```{r break-it-1}
-random code
-palmers penguins is a cool package 
+
+ggplot(data = diamonds, aes(x = depth, y = carat)) +
+  geom_point(aes(color = blue)) +
+  labs(x= "Peyton Rocks!", 
+       y = "Whales are cool")
+  theme_void()
+  
+  # hello there! 
+  
+
+#random code
+#palmers penguins is a cool package 
 
 ```
+
 
 ```{r break-it-2}
 
