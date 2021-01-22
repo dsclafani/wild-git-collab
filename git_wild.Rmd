@@ -64,10 +64,6 @@ ggplot(data = diamonds, aes(x = depth, y = carat)) +
 
 
 
-
-
-
-
 ```
 
 ## END Discussion 3
