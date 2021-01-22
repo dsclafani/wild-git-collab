@@ -54,7 +54,8 @@ ggplot(data = diamonds, aes(x = depth, y = carat)) +
 
 
 ```{r break-it-2}
-
+#hello!
+# more random code
 ```
 
 ## END Discussion 3
