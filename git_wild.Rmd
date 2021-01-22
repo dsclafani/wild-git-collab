@@ -55,6 +55,15 @@ ggplot(data = diamonds, aes(x = depth, y = carat)) +
 
 ```{r break-it-2}
 
+
+5 + 10 +982059810934850
+
+#hi there 
+
+# breaking stuff 
+
+
+
 ```
 
 ## END Discussion 3
